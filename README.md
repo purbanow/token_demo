@@ -1,4 +1,4 @@
-#Token demo
+# Token demo
 
 The purpose of this repo is to demonstrate simple token deployment on Ropsten network using Remix - Solidity IDE 
 and MetaMask + Ledger Nano S interaction with contract. 
